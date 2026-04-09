@@ -210,7 +210,7 @@ function App() {
       <header className="header">
         <div className="brand">
           <ActivitySquare size={28} color="#00e5ff" />
-          <h1>SYNEXA AI</h1>
+          <h1>SMARTFORCE</h1>
         </div>
         <div className="connection-status">
           <div className={`status-indicator ${isConnected ? 'connected' : 'disconnected'}`}></div>
